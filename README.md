@@ -2,6 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 [Link to tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9iWstfXntcj8f-dFZ4UtlN3)
 
+[Deployed using firebase](https://react-redux-firestore-tutorial.firebaseapp.com/signin)
 ## Available Scripts
 
 In the project directory, you can run:
